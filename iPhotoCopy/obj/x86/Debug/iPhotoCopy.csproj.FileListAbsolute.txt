@@ -1,0 +1,6 @@
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/bin/Debug/iPhotoCopy.exe
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/bin/Debug/iPhotoCopy.pdb
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/obj/x86/Debug/iPhotoCopy.exe
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/obj/x86/Debug/iPhotoCopy.pdb
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/obj/x86/Debug/iPhotoCopy.csprojAssemblyReference.cache
+/Volumes/UserData/Source/CShsrp/iPhotoCopy/iPhotoCopy/obj/x86/Debug/iPhotoCopy.csproj.CoreCompileInputs.cache

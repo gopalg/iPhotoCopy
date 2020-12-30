@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8C2AE665-0F9F-4B52-AA6D-8517502BE556}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iPhotoCopy/DirectotryTraverse.cs">
+    <Files>
+      <File FileName="iPhotoCopy/DirectotryTraverse.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iPhotoCopy" expanded="True">
+            <Node name="iPhotoCopy" expanded="True">
+              <Node name="DirectotryTraverse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.iPhotoCopy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
